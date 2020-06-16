@@ -1,0 +1,22 @@
+header{
+    display: flex;
+}
+.logo img{
+    background-color: #007b99;
+    width: 300px;
+    padding: 21px;
+}
+.containermenu{
+    background-color: #007b99;
+    width: 100%;
+}
+.parte1, .parte2{
+    width: 35%;
+    padding: 15px 100px 0px;
+
+}
+.containermenu p{
+    padding: 0px 5px;
+    color: white;
+}
+

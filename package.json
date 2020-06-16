@@ -1,0 +1,22 @@
+{
+  "name": "matriz",
+  "version": "1.0.0",
+  "description": "matriz cursos",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stiven70/matriz.git"
+  },
+  "author": "stiven ruiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stiven70/matriz/issues"
+  },
+  "homepage": "https://github.com/stiven70/matriz#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
+}
